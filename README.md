@@ -1,4 +1,3 @@
-# node-rest-l14
 # node-rest-chambalancer
 # API RESTful con Node.js
 
@@ -25,13 +24,13 @@ Asegúrate de tener instalado y configurado Docker antes de comenzar.
 1. Clonar el repositorio en la máquina local:
    
    ```sh
-   git clone https://github.com/FabianVaz/node-rest-l14.git
+   git clone https://github.com/FabianVaz/node-rest-chambalancer.git
    ```
 
 2. Navegar al directorio del proyecto:
    
    ```sh
-   cd node-rest-l14
+   cd node-rest-chambalancer
    ```
 
 3. Ejecutar el siguiente comando para iniciar los contenedores:
