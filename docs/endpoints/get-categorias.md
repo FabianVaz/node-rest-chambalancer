@@ -1,4 +1,4 @@
-# Endpoint: `GET /servicios`
+# Endpoint: `GET /categorias`
 
 Permite obtener información detallada sobre las categorías registradas.
 
