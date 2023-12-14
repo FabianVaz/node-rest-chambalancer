@@ -1,4 +1,4 @@
-# Endpoint: `GET /servicios/{id}`
+# Endpoint: `GET /categorias{id}`
 
 Permite obtener información detallada sobre un tema específico mediante su identificador único.
 
