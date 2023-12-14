@@ -1,6 +1,6 @@
 # Endpoint: `GET /usuarios/{id}`
 
-Permite obtener información detallada sobre un tema específico mediante su identificador único.
+Permite obtener información detallada sobre un usuario específico mediante su identificador único.
 
 ## Parámetros de URL
 - `{id}` (obligatorio): Identificador único del tema que se desea recuperar.
