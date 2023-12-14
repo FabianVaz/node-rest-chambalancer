@@ -8,17 +8,18 @@ Nombre de usuario.
 Correo electrónico.
 Tipo de usuarios. Consumidor/Proveedor.
 
-```json
+
+
+## Ejemplo de Solicitud
+```http
+POST /usuarios
+Content-Type: application/json
+
 {
         "Nombre_usuario": "Salvador Canicas",
         "Correo_electronico": "scanica@outlook.com",
         "Tipo_usuario": "Consumidor"
 }
-```
-
-## Ejemplo de Solicitud
-```http
-POST /usuarios
 ```
 
 ## Respuesta Exitosa (Código 200 OK)
